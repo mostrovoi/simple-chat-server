@@ -1,4 +1,4 @@
-# irc-chat-server-test
+# simple-chat-server
 
 Implements a simple text based chat server based on Netty framework and the hexagonal architecture
 
