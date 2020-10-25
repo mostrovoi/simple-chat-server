@@ -1,0 +1,513 @@
+
+.DEBUG ---> User bruno registered successfully
+
+.DEBUG ---> User bruno logged in to the system
+2DEBUG ---> Empty username or password not allowed
+.DEBUG ---> User bruno registered successfully
+.DEBUG ---> User bruno logged in to the system
+=DEBUG ---> The password provided for user bruno is incorrect
+2DEBUG ---> Empty username or password not allowed
+.DEBUG ---> User bruno registered successfully
+.DEBUG ---> User bruno logged in to the system
+[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.547870923 - bruno has joined channel pornoduro
+
+HDEBUG ---> You were already in channel pornoduro. Set as active channel
+[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.547870923 - bruno has joined channel pornoduro
+
+.DEBUG ---> User bruno registered successfully
+.DEBUG ---> User bruno logged in to the system
+WDEBUG ---> [IRCServer] 2020-10-25T16:02:32.551351442 - bruno has joined channel gamer
+
+[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.551738559 - bruno has joined channel pornoduro
+
+YDEBUG ---> [IRCServer] 2020-10-25T16:02:32.552118501 - bruno has joined channel pililas
+
+TDEBUG ---> [IRCServer] 2020-10-25T16:02:32.552521838 - bruno has left this channel
+
+FDEBUG ---> You were already in channel pililas. Set as active channel
+YDEBUG ---> [IRCServer] 2020-10-25T16:02:32.552118501 - bruno has joined channel pililas
+
+.DEBUG ---> User bruno registered successfully
+.DEBUG ---> User bruno logged in to the system
+[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.556221495 - bruno has joined channel pornoduro
+
+TDEBUG ---> [IRCServer] 2020-10-25T16:02:32.556759999 - bruno has left this channel
+
+.DEBUG ---> User bruno registered successfully
+.DEBUG ---> User bruno logged in to the system
+4DEBUG ---> You are not in any channel at the moment
+.DEBUG ---> User bruno registered successfully
+.DEBUG ---> User bruno logged in to the system
+WDEBUG ---> [IRCServer] 2020-10-25T16:02:32.568109695 - bruno has joined channel gamer
+
+[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.568682114 - bruno has joined channel pornoduro
+
+YDEBUG ---> [IRCServer] 2020-10-25T16:02:32.569166284 - bruno has joined channel pililas
+
+TDEBUG ---> [IRCServer] 2020-10-25T16:02:32.569683258 - bruno has left this channel
+
+DDEBUG ---> You were already in channel gamer. Set as active channel
+WDEBUG ---> [IRCServer] 2020-10-25T16:02:32.568109695 - bruno has joined channel gamer
+
+.DEBUG ---> User bruno registered successfully
+.DEBUG ---> User bruno logged in to the system
+[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.574100429 - bruno has joined channel pornoduro
+
+TDEBUG ---> [IRCServer] 2020-10-25T16:02:32.574720609 - bruno has left this channel
+
+HDEBUG ---> You were already in channel pornoduro. Set as active channel
+[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.574100429 - bruno has joined channel pornoduro
+
+.DEBUG ---> User bruno registered successfully
+.DEBUG ---> User bruno logged in to the system
+[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.579153219 - bruno has joined channel pornoduro
+
+WDEBUG ---> [IRCServer] 2020-10-25T16:02:32.579654913 - bruno has joined channel gamer
+
+TDEBUG ---> [IRCServer] 2020-10-25T16:02:32.580216421 - bruno has left this channel
+
+HDEBUG ---> You were already in channel pornoduro. Set as active channel
+[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.579153219 - bruno has joined channel pornoduro
+
+.DEBUG ---> User bruno registered successfully
+.DEBUG ---> User bruno logged in to the system
+[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.589022229 - bruno has joined channel pornoduro
+
+ZDEBUG ---> [IRCServer] 2020-10-25T16:02:32.589536207 - bruno has joined channel pecadorr
+
+RDEBUG ---> [IRCServer] 2020-10-25T16:02:32.590900582 - bruno has left the system
+
+4DEBUG ---> You have been logged out from the server
+ .DEBUG ---> User bruno registered successfully
+ .DEBUG ---> User bruno logged in to the system
+ [DEBUG ---> [IRCServer] 2020-10-25T16:02:32.612408368 - bruno has joined channel pornoduro
+ 
+ ZDEBUG ---> [IRCServer] 2020-10-25T16:02:32.612775386 - bruno has joined channel pecadorr
+ 
+ RDEBUG ---> [IRCServer] 2020-10-25T16:02:32.613171238 - bruno has left the system
+ 
+ 4DEBUG ---> You have been logged out from the server
+"!.DEBUG ---> User bruno registered successfully
+"!.DEBUG ---> User bruno logged in to the system
+"![DEBUG ---> [IRCServer] 2020-10-25T16:02:32.621421670 - bruno has joined channel pornoduro
+"!
+"!HDEBUG ---> You were already in channel pornoduro. Set as active channel
+"![DEBUG ---> [IRCServer] 2020-10-25T16:02:32.621421670 - bruno has joined channel pornoduro
+"!
+"#.DEBUG ---> User bruno registered successfully
+"#.DEBUG ---> User bruno logged in to the system
+"#[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.625757106 - bruno has joined channel pornoduro
+"#
+"$.DEBUG ---> User bruno registered successfully
+"$.DEBUG ---> User bruno logged in to the system
+"$[DEBUG ---> [IRCServer] 2020-10-25T16:02:32.629651953 - bruno has joined channel pornoduro
+"$
+"$WDEBUG ---> [IRCServer] 2020-10-25T16:02:32.629933469 - bruno has joined channel gamer
+"$
+"%.DEBUG ---> User bruno registered successfully
+"%.DEBUG ---> User bruno logged in to the system
+"%8DEBUG ---> You cannot join a channel with an empty name
+"&/DEBUG ---> User bruno1 registered successfully
+"&/DEBUG ---> User bruno1 logged in to the system
+"&/DEBUG ---> User bruno2 registered successfully
+"&/DEBUG ---> User bruno2 logged in to the system
+"&/DEBUG ---> User bruno3 registered successfully
+"&/DEBUG ---> User bruno3 logged in to the system
+"&/DEBUG ---> User bruno4 registered successfully
+"&/DEBUG ---> User bruno4 logged in to the system
+"&/DEBUG ---> User bruno5 registered successfully
+"&/DEBUG ---> User bruno5 logged in to the system
+"&/DEBUG ---> User bruno6 registered successfully
+"&/DEBUG ---> User bruno6 logged in to the system
+"&/DEBUG ---> User bruno7 registered successfully
+"&/DEBUG ---> User bruno7 logged in to the system
+"&/DEBUG ---> User bruno8 registered successfully
+"&/DEBUG ---> User bruno8 logged in to the system
+"&/DEBUG ---> User bruno9 registered successfully
+"&/DEBUG ---> User bruno9 logged in to the system
+"&0DEBUG ---> User bruno10 registered successfully
+"&0DEBUG ---> User bruno10 logged in to the system
+"&0DEBUG ---> User bruno11 registered successfully
+"&0DEBUG ---> User bruno11 logged in to the system
+"&0DEBUG ---> User bruno12 registered successfully
+"&0DEBUG ---> User bruno12 logged in to the system
+"&0DEBUG ---> User bruno13 registered successfully
+"&0DEBUG ---> User bruno13 logged in to the system
+"&0DEBUG ---> User bruno14 registered successfully
+"&0DEBUG ---> User bruno14 logged in to the system
+"&0DEBUG ---> User bruno15 registered successfully
+"&0DEBUG ---> User bruno15 logged in to the system
+"&0DEBUG ---> User bruno16 registered successfully
+"&0DEBUG ---> User bruno16 logged in to the system
+"&0DEBUG ---> User bruno17 registered successfully
+"&0DEBUG ---> User bruno17 logged in to the system
+"&0DEBUG ---> User bruno18 registered successfully
+"&0DEBUG ---> User bruno18 logged in to the system
+"&0DEBUG ---> User bruno19 registered successfully
+"&0DEBUG ---> User bruno19 logged in to the system
+"&0DEBUG ---> User bruno20 registered successfully
+"&0DEBUG ---> User bruno20 logged in to the system
+"&0DEBUG ---> User bruno21 registered successfully
+"&0DEBUG ---> User bruno21 logged in to the system
+"&0DEBUG ---> User bruno22 registered successfully
+"&0DEBUG ---> User bruno22 logged in to the system
+"&0DEBUG ---> User bruno23 registered successfully
+"&0DEBUG ---> User bruno23 logged in to the system
+"&0DEBUG ---> User bruno24 registered successfully
+"&0DEBUG ---> User bruno24 logged in to the system
+"&0DEBUG ---> User bruno25 registered successfully
+"&0DEBUG ---> User bruno25 logged in to the system
+"&0DEBUG ---> User bruno26 registered successfully
+"&0DEBUG ---> User bruno26 logged in to the system
+"&0DEBUG ---> User bruno27 registered successfully
+"&0DEBUG ---> User bruno27 logged in to the system
+"&0DEBUG ---> User bruno28 registered successfully
+"&0DEBUG ---> User bruno28 logged in to the system
+"&0DEBUG ---> User bruno29 registered successfully
+"&0DEBUG ---> User bruno29 logged in to the system
+"&0DEBUG ---> User bruno30 registered successfully
+"&0DEBUG ---> User bruno30 logged in to the system
+"&0DEBUG ---> User bruno31 registered successfully
+"&0DEBUG ---> User bruno31 logged in to the system
+"&0DEBUG ---> User bruno32 registered successfully
+"&0DEBUG ---> User bruno32 logged in to the system
+"&0DEBUG ---> User bruno33 registered successfully
+"&0DEBUG ---> User bruno33 logged in to the system
+"&0DEBUG ---> User bruno34 registered successfully
+"&0DEBUG ---> User bruno34 logged in to the system
+"&0DEBUG ---> User bruno35 registered successfully
+"&0DEBUG ---> User bruno35 logged in to the system
+"&0DEBUG ---> User bruno36 registered successfully
+"&0DEBUG ---> User bruno36 logged in to the system
+"&0DEBUG ---> User bruno37 registered successfully
+"&0DEBUG ---> User bruno37 logged in to the system
+"&0DEBUG ---> User bruno38 registered successfully
+"&0DEBUG ---> User bruno38 logged in to the system
+"&0DEBUG ---> User bruno39 registered successfully
+"&0DEBUG ---> User bruno39 logged in to the system
+"&0DEBUG ---> User bruno40 registered successfully
+"&0DEBUG ---> User bruno40 logged in to the system
+"&0DEBUG ---> User bruno41 registered successfully
+"&0DEBUG ---> User bruno41 logged in to the system
+"&0DEBUG ---> User bruno42 registered successfully
+"&0DEBUG ---> User bruno42 logged in to the system
+"&0DEBUG ---> User bruno43 registered successfully
+"&0DEBUG ---> User bruno43 logged in to the system
+"&0DEBUG ---> User bruno44 registered successfully
+"&0DEBUG ---> User bruno44 logged in to the system
+"&0DEBUG ---> User bruno45 registered successfully
+"&0DEBUG ---> User bruno45 logged in to the system
+"&0DEBUG ---> User bruno46 registered successfully
+"&0DEBUG ---> User bruno46 logged in to the system
+"&0DEBUG ---> User bruno47 registered successfully
+"&0DEBUG ---> User bruno47 logged in to the system
+"&0DEBUG ---> User bruno48 registered successfully
+"&0DEBUG ---> User bruno48 logged in to the system
+"&0DEBUG ---> User bruno49 registered successfully
+"&0DEBUG ---> User bruno49 logged in to the system
+"&0DEBUG ---> User bruno50 registered successfully
+"&0DEBUG ---> User bruno50 logged in to the system
+"&0DEBUG ---> User bruno51 registered successfully
+"&0DEBUG ---> User bruno51 logged in to the system
+"&0DEBUG ---> User bruno52 registered successfully
+"&0DEBUG ---> User bruno52 logged in to the system
+"&0DEBUG ---> User bruno53 registered successfully
+"&0DEBUG ---> User bruno53 logged in to the system
+"&0DEBUG ---> User bruno54 registered successfully
+"&0DEBUG ---> User bruno54 logged in to the system
+"&0DEBUG ---> User bruno55 registered successfully
+"&0DEBUG ---> User bruno55 logged in to the system
+"&0DEBUG ---> User bruno56 registered successfully
+"&0DEBUG ---> User bruno56 logged in to the system
+"&0DEBUG ---> User bruno57 registered successfully
+"&0DEBUG ---> User bruno57 logged in to the system
+"&0DEBUG ---> User bruno58 registered successfully
+"&0DEBUG ---> User bruno58 logged in to the system
+"&0DEBUG ---> User bruno59 registered successfully
+"&0DEBUG ---> User bruno59 logged in to the system
+"&0DEBUG ---> User bruno60 registered successfully
+"&0DEBUG ---> User bruno60 logged in to the system
+"&0DEBUG ---> User bruno61 registered successfully
+"&0DEBUG ---> User bruno61 logged in to the system
+"&0DEBUG ---> User bruno62 registered successfully
+"&0DEBUG ---> User bruno62 logged in to the system
+"&0DEBUG ---> User bruno63 registered successfully
+"&0DEBUG ---> User bruno63 logged in to the system
+"&0DEBUG ---> User bruno64 registered successfully
+"&0DEBUG ---> User bruno64 logged in to the system
+"&0DEBUG ---> User bruno65 registered successfully
+"&0DEBUG ---> User bruno65 logged in to the system
+"&0DEBUG ---> User bruno66 registered successfully
+"&0DEBUG ---> User bruno66 logged in to the system
+"&0DEBUG ---> User bruno67 registered successfully
+"&0DEBUG ---> User bruno67 logged in to the system
+"&0DEBUG ---> User bruno68 registered successfully
+"&0DEBUG ---> User bruno68 logged in to the system
+"&0DEBUG ---> User bruno69 registered successfully
+"&0DEBUG ---> User bruno69 logged in to the system
+"&0DEBUG ---> User bruno70 registered successfully
+"&0DEBUG ---> User bruno70 logged in to the system
+"&0DEBUG ---> User bruno71 registered successfully
+"&0DEBUG ---> User bruno71 logged in to the system
+"&0DEBUG ---> User bruno72 registered successfully
+"&0DEBUG ---> User bruno72 logged in to the system
+"&0DEBUG ---> User bruno73 registered successfully
+"&0DEBUG ---> User bruno73 logged in to the system
+"&0DEBUG ---> User bruno74 registered successfully
+"&0DEBUG ---> User bruno74 logged in to the system
+"&0DEBUG ---> User bruno75 registered successfully
+"&0DEBUG ---> User bruno75 logged in to the system
+"&0DEBUG ---> User bruno76 registered successfully
+"&0DEBUG ---> User bruno76 logged in to the system
+"&0DEBUG ---> User bruno77 registered successfully
+"&0DEBUG ---> User bruno77 logged in to the system
+"&0DEBUG ---> User bruno78 registered successfully
+"&0DEBUG ---> User bruno78 logged in to the system
+"&0DEBUG ---> User bruno79 registered successfully
+"&0DEBUG ---> User bruno79 logged in to the system
+"&0DEBUG ---> User bruno80 registered successfully
+"&0DEBUG ---> User bruno80 logged in to the system
+"&0DEBUG ---> User bruno81 registered successfully
+"&0DEBUG ---> User bruno81 logged in to the system
+"&0DEBUG ---> User bruno82 registered successfully
+"&0DEBUG ---> User bruno82 logged in to the system
+"&0DEBUG ---> User bruno83 registered successfully
+"&0DEBUG ---> User bruno83 logged in to the system
+"&0DEBUG ---> User bruno84 registered successfully
+"&0DEBUG ---> User bruno84 logged in to the system
+"&0DEBUG ---> User bruno85 registered successfully
+"&0DEBUG ---> User bruno85 logged in to the system
+"&0DEBUG ---> User bruno86 registered successfully
+"&0DEBUG ---> User bruno86 logged in to the system
+"&0DEBUG ---> User bruno87 registered successfully
+"&0DEBUG ---> User bruno87 logged in to the system
+"&0DEBUG ---> User bruno88 registered successfully
+"&0DEBUG ---> User bruno88 logged in to the system
+"&0DEBUG ---> User bruno89 registered successfully
+"&0DEBUG ---> User bruno89 logged in to the system
+"&0DEBUG ---> User bruno90 registered successfully
+"&0DEBUG ---> User bruno90 logged in to the system
+"&0DEBUG ---> User bruno91 registered successfully
+"&0DEBUG ---> User bruno91 logged in to the system
+"&0DEBUG ---> User bruno92 registered successfully
+"&0DEBUG ---> User bruno92 logged in to the system
+"&0DEBUG ---> User bruno93 registered successfully
+"&0DEBUG ---> User bruno93 logged in to the system
+"&0DEBUG ---> User bruno94 registered successfully
+"&0DEBUG ---> User bruno94 logged in to the system
+"&0DEBUG ---> User bruno95 registered successfully
+"&0DEBUG ---> User bruno95 logged in to the system
+"&0DEBUG ---> User bruno96 registered successfully
+"&0DEBUG ---> User bruno96 logged in to the system
+"&0DEBUG ---> User bruno97 registered successfully
+"&0DEBUG ---> User bruno97 logged in to the system
+"&0DEBUG ---> User bruno98 registered successfully
+"&0DEBUG ---> User bruno98 logged in to the system
+"&0DEBUG ---> User bruno99 registered successfully
+"&0DEBUG ---> User bruno99 logged in to the system
+"&1DEBUG ---> User bruno100 registered successfully
+"&1DEBUG ---> User bruno100 logged in to the system
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.655727847 - bruno1 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.655727847 - bruno1 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.656319442 - bruno2 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.655727847 - bruno1 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.656319442 - bruno2 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.657135234 - bruno3 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.655727847 - bruno1 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.656319442 - bruno2 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.657135234 - bruno3 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.658059041 - bruno4 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.655727847 - bruno1 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.656319442 - bruno2 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.657135234 - bruno3 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.658059041 - bruno4 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.659189531 - bruno5 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.655727847 - bruno1 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.656319442 - bruno2 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.657135234 - bruno3 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.658059041 - bruno4 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.659189531 - bruno5 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.660473984 - bruno6 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.655727847 - bruno1 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.656319442 - bruno2 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.657135234 - bruno3 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.658059041 - bruno4 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.659189531 - bruno5 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.660473984 - bruno6 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.661947877 - bruno7 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.655727847 - bruno1 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.656319442 - bruno2 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.657135234 - bruno3 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.658059041 - bruno4 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.659189531 - bruno5 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.660473984 - bruno6 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.661947877 - bruno7 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.663673730 - bruno8 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.655727847 - bruno1 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.656319442 - bruno2 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.657135234 - bruno3 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.658059041 - bruno4 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.659189531 - bruno5 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.660473984 - bruno6 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.661947877 - bruno7 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.663673730 - bruno8 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.665339949 - bruno9 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.655727847 - bruno1 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.656319442 - bruno2 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.657135234 - bruno3 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.658059041 - bruno4 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.659189531 - bruno5 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.660473984 - bruno6 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.661947877 - bruno7 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.663673730 - bruno8 has joined channel pornoduro
+"&
+"&\DEBUG ---> [IRCServer] 2020-10-25T16:02:32.665339949 - bruno9 has joined channel pornoduro
+"&
+"&]DEBUG ---> [IRCServer] 2020-10-25T16:02:32.667550273 - bruno10 has joined channel pornoduro
+"&
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"&5DEBUG ---> You cannot join the channel. Channel full
+"(.DEBUG ---> User bruno registered successfully
+"(.DEBUG ---> User bruno logged in to the system
+"([DEBUG ---> [IRCServer] 2020-10-25T16:02:32.683412411 - bruno has joined channel pornoduro
+"(
