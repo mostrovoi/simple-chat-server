@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="application.ShowChatUsersUseCaseTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-25T14:02:32" hostname="mostro-pepinaco" time="0.041">
-  <properties/>
-  <testcase name="should throw exception is user is not logged in()" classname="application.ShowChatUsersUseCaseTest" time="0.002"/>
-  <testcase name="should not show anything if user is not in any channel()" classname="application.ShowChatUsersUseCaseTest" time="0.004"/>
-  <testcase name="should show 2 users if 2 users are in the channel()" classname="application.ShowChatUsersUseCaseTest" time="0.033"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
